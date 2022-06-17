@@ -1,4 +1,46 @@
-## Welcome to GitHub Pages
+# Neftali's Profile
+
+# Education
+## City College of San Francisco 2010 - 2018
+## Foothill College 2015 - 2016
+## San Francisco State University 2018 - 2022
+### Bachelor in Economics
+### Minor
+- Decision Science
+- Labor and Employment Studies
+## University of San Francisco 2022 - 2024
+### Master's in Applied Economics
+### Introduction to Computing with Python Certificate
+## Technical Skills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/lilcapu/lilcapu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
